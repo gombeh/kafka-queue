@@ -1,5 +1,5 @@
 <?php
-
+namespace Gombeh\KafkaQueue;
 
 use Illuminate\Contracts\Queue\Queue as QueueContract;
 use Illuminate\Queue\Queue;

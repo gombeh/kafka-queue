@@ -1,5 +1,5 @@
 <?php
-namespace Kafka;
+namespace Gombeh\KafkaQueue;
 
 
 use Illuminate\Queue\Connectors\ConnectorInterface;

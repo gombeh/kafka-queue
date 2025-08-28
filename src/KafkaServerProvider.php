@@ -1,5 +1,5 @@
 <?php
-namespace kafka;
+namespace Gombeh\KafkaQueue;
 
 use Illuminate\Support\ServiceProvider;
 

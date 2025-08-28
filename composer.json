@@ -9,6 +9,13 @@
             "Gombeh\\KafkaQueue\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gombeh\\KafkaQueue\\KafkaServerProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "rasoul",
